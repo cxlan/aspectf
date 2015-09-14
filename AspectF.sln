@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmarALZabir.AspectF", "AspectF\OmarALZabir.AspectF.csproj", "{515CA4A0-60D8-4200-A2D3-4FA23CBBA704}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmarALZabir.AspectF.Demo", "OmarALZabir.AspectF.Demo\OmarALZabir.AspectF.Demo.csproj", "{403A8357-D2AA-43A4-9D0A-023D55C49308}"
